@@ -11,14 +11,14 @@
 
  You will need to clone the following repostitories:
 
-- https://github.com/shiragoshen/cppServer.git
+- https://github.com/nogagur/cppServer
 - https://github.com/nogagur/YouTube
 - https://github.com/nogagur/YouTubeAndroid
 
 ## Cloning the CPP server
 1. Clone the server repository:
     ````
-   git clone git@github.com:shiragoshen/cppServer.git
+   git clone git@github.com:nogagur/cppServer.git
    ````
 2. Build the server using MakeFile:
    ````
